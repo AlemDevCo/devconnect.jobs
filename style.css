@@ -108,3 +108,8 @@ header.dark-mode {
 	float: center;
 	text-align: center;
 }
+
+.buttons {
+	border-style: solid;
+	border-radius: 20%;
+}
