@@ -112,4 +112,6 @@ header.dark-mode {
 .buttons {
 	border-style: solid;
 	border-radius: 20%;
+	padding-top: 10%;
+	padding-bottom: 10%;
 }
